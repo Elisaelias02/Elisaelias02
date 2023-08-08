@@ -2,7 +2,7 @@
 ## Hola, Soy Elisa! 👋
 
 
-## 🚀 About Me
+## 🚀 Sobre mi
 Soy estudiante de ingenieria en computación y ciberseguridad, me apasiona crear contenido en distintas plataformas para ayudar a otras personas a estudiar.
 Aqui encontraras muchas de mis notas y pequeños proyectos en los que trabajo en mi tiempo libre.
 
