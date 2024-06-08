@@ -7,6 +7,10 @@ Soy estudiante de ingenieria en computación y ciberseguridad, me apasiona crear
 Aqui encontraras muchas de mis notas y pequeños proyectos en los que trabajo en mi tiempo libre.
 
 
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('[https://github.com/ZLCube/AutoBspwm/blob/main/Wallpaper/wall-05.png?raw=true](https://wallpapercave.com/wp/wp12244028.jpg)');]{x0000}$}
+```
+
 ## 🔗 Mis redes sociales:
 <!-- Instagram -->
 <a href="https://www.instagram.com/elisa_elias__/" target="_blank">
