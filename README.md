@@ -25,8 +25,3 @@ Aqui encontraras muchas de mis notas y pequeños proyectos en los que trabajo en
 <a href="https://www.buymeacoffee.com/elisaelias" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="31" width="164"></a>
 
 
-
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('[https://github.com/Elisaelias02/AutoBspwm/blob/main/Wallpaper/wall-05.png?raw=true](https://wallpapercave.com/wp/wp12244028.jpg)');]{x0000}$}
-```
