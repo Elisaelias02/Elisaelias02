@@ -29,9 +29,8 @@ También fundé **AEGIS Security Consulting**, una consultoría moderna pensada 
   <img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/>
 </a>
 
-<!-- Twitch -->
-<a href="https://www.twitch.tv/elisa_elias" target="_blank">
-  <img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>
+<!-- YouTube -->
+
 </a>
 <a href="https://www.buymeacoffee.com/elisaelias" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="31" width="164"></a>
 
