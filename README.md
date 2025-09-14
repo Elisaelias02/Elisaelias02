@@ -18,20 +18,20 @@ También fundé **AEGIS Security Consulting**, una consultoría moderna pensada 
 - Creación de **laboratorios realistas de ciberseguridad** 🔥  
 - Enseñar de forma clara y divertida lo complejo 💡  
 
-## 🌐 Encuéntrame en: 
-<!-- Instagram -->
-<a href="https://www.instagram.com/elisa_elias__/" target="_blank">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
+## 🌐 Encuéntrame en
 
-<!-- TikTok -->
-<a href="https://www.tiktok.com/@elisa_elias_" target="_blank">
-  <img alt="TikTok" src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white"/>
-</a>
-
-<!-- YouTube -->
-
-</a>
-<a href="https://www.buymeacoffee.com/elisaelias" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="31" width="164"></a>
-
+<p align="left">
+  <a href="https://secureaegis.net" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/elisa_elias__" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40" height="40"/>
+  </a>
+  <a href="https://www.tiktok.com/@elisa_elias_" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/tiktok.png" width="40" height="40"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/elisaelias" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/F7CA88/cafe.png" width="40" height="40"/>
+  </a>
+</p>
 
