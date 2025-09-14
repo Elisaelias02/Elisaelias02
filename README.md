@@ -22,16 +22,22 @@ También fundé **AEGIS Security Consulting**, una consultoría moderna pensada 
 
 <p align="left">
   <a href="https://secureaegis.net" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="40" height="40" alt="AEGIS"/>
   </a>
   <a href="https://www.instagram.com/elisa_elias__" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40" height="40" alt="Instagram"/>
   </a>
   <a href="https://www.tiktok.com/@elisa_elias_" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/tiktok.png" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/tiktok.png" width="40" height="40" alt="TikTok"/>
+  </a>
+  <a href="https://www.youtube.com/@Elisa_Elias" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/FF0000/youtube-play.png" width="40" height="40" alt="YouTube"/>
+  </a>
+  <a href="https://www.linkedin.com/in/elisa-elias-0a7829268" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="https://www.buymeacoffee.com/elisaelias" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/F7CA88/cafe.png" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/F7CA88/cafe.png" width="40" height="40" alt="Buy Me a Coffee"/>
   </a>
 </p>
 
