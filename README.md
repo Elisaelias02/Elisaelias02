@@ -3,11 +3,22 @@
 
 
 ## 🚀 Sobre mi
-Soy estudiante de ingenieria en computación y ciberseguridad, me apasiona crear contenido en distintas plataformas para ayudar a otras personas a estudiar.
-Aqui encontraras muchas de mis notas y pequeños proyectos en los que trabajo en mi tiempo libre.
+Hola, soy **Elisa Elias** 👋. Me dedico a crear contenido sobre ciberseguridad y a enseñar hacking ético de forma clara y divertida a través de **Hack The World**, mi academia online.  
+También fundé **AEGIS Security Consulting**, una consultoría moderna pensada para acompañar a **startups y equipos de desarrollo** que buscan proteger sus proyectos con servicios de seguridad ajustados a sus necesidades.
 
+## 🔥 Lo que hago  
+- 🎥 Creo contenido educativo sobre **hacking ético y ciberseguridad avanzada** en distintas plataformas.  
+- 🏫 Fundadora de **Hack The World**, academia online con cursos prácticos de seguridad informática.  
+- 🛡️ Colaboro en **AEGIS**, investigando y compartiendo sobre **amenazas modernas, APTs y Red Teaming**.  
+- 🎤 Doy **charlas y workshops** para empresas y comunidades sobre amenazas invisibles y ciberdefensa.  
+- 🛠️ Desarrollo laboratorios de ciberseguridad para practicar en entornos controlados.  
 
-## 🔗 Mis redes sociales:
+## 🌱 Actualmente aprendiendo...  
+- Red Team y explotación avanzada en entornos **Cloud** ☁️  
+- Creación de **laboratorios realistas de ciberseguridad** 🔥  
+- Enseñar de forma clara y divertida lo complejo 💡  
+
+## 🌐 Encuéntrame en: 
 <!-- Instagram -->
 <a href="https://www.instagram.com/elisa_elias__/" target="_blank">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
