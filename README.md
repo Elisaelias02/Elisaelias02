@@ -9,7 +9,7 @@ También fundé **AEGIS Security Consulting**, una consultoría moderna pensada 
 ## 🔥 Lo que hago  
 - 🎥 Creo contenido educativo sobre **hacking ético y ciberseguridad avanzada** en distintas plataformas.  
 - 🏫 Fundadora de **Hack The World**, academia online con cursos prácticos de seguridad informática.  
-- 🛡️ Colaboro en **AEGIS**, investigando y compartiendo sobre **amenazas modernas, APTs y Red Teaming**.  
+- 🛡️ Fundadora de **AEGIS**, investigando y compartiendo sobre **amenazas modernas, APTs y Red Teaming**.  
 - 🎤 Doy **charlas y workshops** para empresas y comunidades sobre amenazas invisibles y ciberdefensa.  
 - 🛠️ Desarrollo laboratorios de ciberseguridad para practicar en entornos controlados.  
 
